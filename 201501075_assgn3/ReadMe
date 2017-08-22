@@ -1,0 +1,24 @@
+kernel.c
+main function,normal function will run here
+pipe.c
+when pipes are used we will redirect to this file
+pwd.c
+pwd func
+pinfo.c
+pinfo func
+other.c
+execvp funcs 
+echo.c
+if echo is used
+redirect.c
+if any of redirect func is used 
+direct.c
+used in pipes.c
+
+
+
+
+compile
+make all;
+if you want to clean 
+make clean;

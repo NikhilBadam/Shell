@@ -1,0 +1,1 @@
+void redirect(char *argument[]);
